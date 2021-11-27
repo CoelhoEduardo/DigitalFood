@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Digital Food</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="ConfirmPass">Repeat Password</string>
+    <string name="ConfirmButton">Confirm</string>
+    <string name="Name">Name</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+
+</resources>
